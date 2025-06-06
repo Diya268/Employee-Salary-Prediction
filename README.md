@@ -122,21 +122,6 @@ pip install -r requirements.txt
 
 ---
 
-## 📬 Contact
-
-For questions or collaboration:
-**Diya Shah**
-📧 [diya.shah@email.com](mailto:diya.shah@email.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-
----
-
-## ⭐️ Acknowledgments
-
-Thanks to the open-source community and [Streamlit](https://streamlit.io/) for enabling easy deployment of ML apps.
-
----
-
 ## 📌 License
 
 This project is open source and available under the [MIT License](LICENSE).
